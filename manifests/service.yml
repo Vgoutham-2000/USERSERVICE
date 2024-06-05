@@ -7,4 +7,4 @@ spec:
     ports:
     - port: 8081 
     selector:
-        app: userservice
+        app: revhire-user
